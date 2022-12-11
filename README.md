@@ -42,7 +42,7 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pranavbisaria.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranavbisaria&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/pranavbisaria/github-readme-activity-graph)
+[![Pranav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pranavbisaria&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/pranavbisaria/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
